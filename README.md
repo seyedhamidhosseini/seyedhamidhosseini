@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/seyedhamidhosseini"> Seyed Hamid Hosseini </a></h1>
-============================================================================================================================================
+
 
 Softwere Engineer & Front-end Developer
 ---------------------------------------
