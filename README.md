@@ -39,7 +39,7 @@ src="https://img.shields.io/twitch/status/shamidh2000?logo=twitchsx&style=for-th
 <img src="https://github-readme-stats.vercel.app/api?username=Princexz&show_icons=true&theme=radical" />
 
 <p align="left">
-    <a href="https://github.com/Princexz/github-readme-streak-stats">
+    <a href="https://github.com/seyedhamidhosseini/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Solomon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Princexz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
