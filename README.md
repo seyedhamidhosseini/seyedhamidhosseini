@@ -32,10 +32,14 @@ src="https://img.shields.io/twitch/status/shamidh2000?logo=twitchsx&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## 📊 My Github Stats:
 
-<a href="http://www.github.com/seyedhamidhosseini"><img src="https://github-readme-stats.vercel.app/api?username=seyedhamidhosseini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="seyedhamidhosseini's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Princexz&show_icons=true&theme=radical" />
 
-<a href="http://www.github.com/seyedhamidhosseini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seyedhamidhosseini&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+    <a href="https://github.com/Princexz/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Solomon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Princexz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<a href="https://github.com/seyedhamidhosseini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedhamidhosseini&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princexz&layout=compact" />
