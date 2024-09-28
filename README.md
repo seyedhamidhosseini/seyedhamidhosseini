@@ -36,12 +36,12 @@ src="https://img.shields.io/twitch/status/shamidh2000?logo=twitchsx&style=for-th
 
 ## 📊 My Github Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Princexz&show_icons=true&theme=radical" />
+<img src="http://www.github.com/seyedhamidhosseini"?username=SeyedHmaid&show_icons=true&theme=radical" />
 
 <p align="left">
     <a href="https://github.com/seyedhamidhosseini/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Solomon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Princexz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Seyed Hamid Hoddeini's streak" src="http://www.github.com/seyedhamidhosseini/?user=SeyedHamid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princexz&layout=compact" />
+<img src="http://www.github.com/seyedhamidhosseini/?username=SeyedHamid&layout=compact" />
