@@ -4,6 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Softwere Engineer & Front-end Developer
 ---------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princexz&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
+<p align="center"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princexz&row=1&theme=monokai" alt="princexz" /></a> </p>
+
 
 I've been learning to code for 2 years, after switching careers. I started with HTML and CSS but really fell in love with JavaScript.
 
