@@ -15,7 +15,7 @@ I've been learning to code for 2 years, after switching careers. I started with 
 
 * ✉️  You can contact me at [shh20232324@gmil.com](mailto:shh20232324@gmil.com)
 * 🧠  I'm learning React.js and Laravel and Yii
-* 🤝  I'm open to collaborating on m open to working on interesting and challenging back-end projects, particularly ones that involve innovative user experiences or involve modern JavaScript frameworks like React or Next.js.
+* 🤝  I'm open to collaborating on m open to working on interesting and challenging back-end projects, particularly ones that involve innovative user experiences or involve modern PHP frameworks like Laravel or Yii.
 * ⚡  I'm Softwere Engineer and Back-end Developer
 
 <a href="https://www.twitch.tv/shamidh2000" target="_blank" rel="noreferrer"><img
