@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/seyedhamidhosseini"> Seyed Hamid Hosseini </a></h1>
 
 
-Softwere Engineer & Front-end Developer
+Softwere Engineer & Back-end Developer
 ---------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyedhamidhosseini&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
@@ -11,12 +11,12 @@ Softwere Engineer & Front-end Developer
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seyedhamidhosseini&row=1&theme=monokai" alt="princexz" /></a> </p>
 
 
-I've been learning to code for 2 years, after switching careers. I started with HTML and CSS but really fell in love with JavaScript.
+I've been learning to code for 2 years, after switching careers. I started with HTML and CSS but really fell in love with JavaScript and PHP.
 
 * ✉️  You can contact me at [shh20232324@gmil.com](mailto:shh20232324@gmil.com)
-* 🧠  I'm learning React.js and Next.js and Vue.js
-* 🤝  I'm open to collaborating on m open to working on interesting and challenging front-end projects, particularly ones that involve innovative user experiences or involve modern JavaScript frameworks like React or Next.js.
-* ⚡  I'm Softwere Engineer and Front-end Developer
+* 🧠  I'm learning React.js and Laravel and Yii
+* 🤝  I'm open to collaborating on m open to working on interesting and challenging back-end projects, particularly ones that involve innovative user experiences or involve modern JavaScript frameworks like React or Next.js.
+* ⚡  I'm Softwere Engineer and Back-end Developer
 
 <a href="https://www.twitch.tv/shamidh2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/shamidh2000?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
