@@ -22,7 +22,7 @@ I've been learning to code for 2 years, after switching careers. I started with 
 src="https://img.shields.io/twitch/status/shamidh2000?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,yii)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,yii2)](https://skillicons.dev)
 
 
 ### Badges
